@@ -5,12 +5,19 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on building a driverless car powered by ESP32
+- 🌱 I’m currently learning everything
+- 🤔 I’m looking for help with understanding the logic programming paradigm 
+- 💬 Ask me about wireless communication protocols
+- ⚡ Fun fact: In 1976 Bill Gates wrote an open letter expressing dismay towards the rampant software piracy.
+
+
+### Top Langs
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Supercaly)](https://github.com/Supercaly)
+
+### Github Stats
+
+[![Supercaly's Github Stats](https://github-readme-stats.vercel.app/api?username=Supercaly&count_private=true&theme=default&show_icons=true)](https://github.com/Supercaly)
+
