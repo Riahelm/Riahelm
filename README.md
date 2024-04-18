@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ### Top Langs
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Supercaly)](https://github.com/Supercaly)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Riahelm)](https://github.com/Riahelm)
 
 ### Github Stats
 
-[![Supercaly's Github Stats](https://github-readme-stats.vercel.app/api?username=Supercaly&count_private=true&theme=default&show_icons=true)](https://github.com/Supercaly)
+[![Supercaly's Github Stats](https://github-readme-stats.vercel.app/api?username=Supercaly&count_private=true&theme=default&show_icons=true)](https://github.com/Riahelm)
 
